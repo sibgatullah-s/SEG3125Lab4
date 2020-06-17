@@ -5,8 +5,48 @@
 
 /* Bootstrap default font-family is Helvetica Neue */
 h1 {
-  font-family: "Times New Roman", Times, serif;
-  text-shadow: 3px 3px 1px black;
-  
+  font-family: "Oswald", sans-serif;
+  font-weight: bold;
 }
 
+h3 {
+  font-weight: bold;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+body {
+  font-family: "Oswald", sans-serif;
+}
+
+.icon {
+  height: 100px;
+}
+
+.p-3 {
+  background-color: white;
+}
+
+.btn-default {
+  font-weight: bold;
+}
+
+.col-sm {
+  text-align: center;
+}
+
+.col-sm button {
+  width: inherit;
+  height: inherit;
+}
+
+.hair {
+  height: 100px;
+}
+
+.card-columns {
+  display: flex;
+  margin-right: 100px;
+}
